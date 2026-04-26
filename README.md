@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im current;ly working on a ML program that tracks identified faces across live and recorded videos and matches them to a specific face.
+Im currently working on a ML program that tracks identified faces across live and recorded videos and matches them to a specific face.
 
 
 ## 🌐 Socials:
