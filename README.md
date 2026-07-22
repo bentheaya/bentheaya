@@ -2,19 +2,19 @@
 <h3 align="center">Math + Code + a healthy suspicion of "AI slop"</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=560&lines=Final-year+Math+%26+CS+%40+Maseno+University;Building+with+Python%2C+Django%2C+React%2C+Docker;Turning+differential+geometry+into+debugging+sessions;Fighting+deepfakes+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=560&lines=Final-year+Math+%26+CS+%40+Maseno+University;Building+with+Python%2C+Django%2C+React%2C+PyTorch;Turning+differential+geometry+into+debugging+sessions;Fighting+deepfakes+one+commit+at+a+time" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About me
 
-I'm a final-year **Mathematics & Computer Science** student at Maseno University, Kenya — which basically means I get to argue that dynamic programming is just applied algebra, and nobody can stop me.
+I'm a final-year **Mathematics & Computer Science** student at Maseno University, Kenya; which basically means I get to argue that dynamic programming is just applied algebra, and nobody can stop me.
 
 I move across three lanes pretty fluidly:
 - **Backend & infra** — Django, Docker, CI/CD, the unglamorous stuff that keeps things running
 - **Founder mode** — building products from zero, usually solo or with a tiny crew
-- **Quant/ML research** — NLP on Maragoli grammar, a bit of differential geometry, and whatever rabbit hole looks interesting that week
+- **Quant/ML research** — NLP on Kenyan local languages, a bit of differential geometry, and whatever rabbit hole looks interesting that week
 
 I'm cost-conscious by necessity and resourceful by design — if there's a free-tier way to do it, I've probably already found it.
 
@@ -26,16 +26,22 @@ I'm cost-conscious by necessity and resourceful by design — if there's a free-
 |---|---|
 | 🕵️ **[SlopSlayer](https://github.com/bentheaya/SlopSlayer)** | Real-time deepfake & AI-slop buster — a witty "big sibling" AI agent that watches your screen, roasts the misinformation, and teaches you to spot it yourself. Built on Gemini's multimodal live API. |
 | 💬 **[OpinionMiner](https://github.com/bentheaya/opinionminer)** | A sentiment analysis engine, but tuned for messy real-world text instead of clean textbook datasets. |
-| 🧭 **[AR-pathfinder](https://github.com/bentheaya/AR-pathfinder)** | Augmented-reality wayfinding — bringing navigation off the flat map and into the world you're actually walking through. |
+| 🧭 **[AR_Pathfinder](https://github.com/bentheaya/AR_Pathfinder)** | Augmented-reality wayfinding — bringing navigation off the flat map and into the world you're actually walking through. |
 
 ---
 
-### 🛠️ Tech I reach for
+### 🛠️ Core strengths
 
-**Core:** Python · JavaScript · C  
-**Backend/Infra:** Django · Docker · CI/CD · Linux  
-**Frontend:** React  
-**AI/ML:** model training, NLP, applied research
+**Languages:** Python (main) · TypeScript/JavaScript · Java · C  
+**ML / CV:** Face tracking & deepfake detection (SlopSlayer) · Sentiment analysis (OpinionMiner) · PyTorch  
+**Data:** Pandas · NumPy · scikit-learn  
+**Backend:** Django · Django REST Framework · Node.js  
+**Frontend:** React · Next.js · Three.js · Tailwind CSS  
+**Databases:** PostgreSQL · Redis  
+**DevOps:** Git · Docker · GitHub Actions · Linux  
+**Creative:** Adobe Premiere/After Effects · Figma
+
+*(Quantum computing via Qiskit and topology/differential geometry research live in specific repos — not headline skills here, but ask if you're curious.)*
 
 ---
 
